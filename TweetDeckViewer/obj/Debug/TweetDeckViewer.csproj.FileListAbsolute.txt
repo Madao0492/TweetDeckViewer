@@ -1,0 +1,10 @@
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\bin\Debug\TweetDeckViewer.exe.config
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\bin\Debug\TweetDeckViewer.exe
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\bin\Debug\TweetDeckViewer.pdb
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\obj\Debug\TweetDeckViewer.csprojResolveAssemblyReference.cache
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\obj\Debug\TweetDeckViewer.Main.resources
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\obj\Debug\TweetDeckViewer.Properties.Resources.resources
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\obj\Debug\TweetDeckViewer.csproj.GenerateResource.Cache
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\obj\Debug\TweetDeckViewer.exe
+d:\kitajima\documents\visual studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\obj\Debug\TweetDeckViewer.pdb
+D:\kitajima\Documents\Visual Studio 2015\Projects\TweetDeckViewer\TweetDeckViewer\bin\Debug\icon.ico
