@@ -1,0 +1,10 @@
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\bin\Release\TweetDeckViewer.exe.config
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\bin\Release\icon.ico
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\bin\Release\TweetDeckViewer.exe
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\bin\Release\TweetDeckViewer.pdb
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\obj\Release\TweetDeckViewer.csprojResolveAssemblyReference.cache
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\obj\Release\TweetDeckViewer.Main.resources
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\obj\Release\TweetDeckViewer.Properties.Resources.resources
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\obj\Release\TweetDeckViewer.csproj.GenerateResource.Cache
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\obj\Release\TweetDeckViewer.exe
+D:\Users\kitajima\Source\Repos\TweetDeckViewer\TweetDeckViewer\obj\Release\TweetDeckViewer.pdb
